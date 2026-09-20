@@ -1,0 +1,19 @@
+# Generated output
+output/
+
+# Large / local input archives
+*.zip
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Editor / OS
+.cursor/
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
